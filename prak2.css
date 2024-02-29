@@ -1,0 +1,23 @@
+h2 {
+    background-color: aqua;
+}
+tr.a{
+    background-color: rgb(8, 201, 185);
+}
+th.b{
+background-color: steelblue;
+}
+body {
+    background-image: url(xaxa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.hover:hover{
+    background-color: chocolate;
+    font-style: oblique;
+
+}
+
